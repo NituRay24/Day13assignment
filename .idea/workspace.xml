@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8344aff1-0085-4215-8713-7e2d17aed98a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignment1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Array/Sumofevennumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Array/Sumofprimenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Datamodifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Geometric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Polindromornot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3assignment/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3assignment/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3assignment/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3assignment/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3assignment/Day3assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4assignment/Day4assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5assignment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emplayewage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JuneFirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snakeandladder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase/src/main/java/Additiontest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase/src/main/java/Testaddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase2/src/main/java/Sumofnumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcase2/src/test/java/Testclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcases/Testcases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcases/src/Additiontest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testcases/src/Addnumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/Worshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/out/production/Worshop/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/out/production/Worshop/Randomnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/src/Randomnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worshop/src/Stringcheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/com/example/demo/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop2/src/CheckDublicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop2/src/DublicateProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/com/bridgelabs/operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/com/bridgelabs/operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10thassignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day10thassignment/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10thassignment/src/Employeewage/UC11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day10thassignment/src/Employeewage/UC11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day11&amp;12assignment/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day11&amp;12assignment/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5assignment/src/Vovelsandconsonent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day5assignment/src/Vovelsandconsonent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snakeandladder/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Snakeandladder/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29z2naZu3nIbjTY8CYsZeGM9M5N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.GenericMethod">
+    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericMethod" />
+      <module name="JuneFirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxInteger" />
+      <module name="JuneFirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxString" />
+      <module name="JuneFirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenericMethod" />
+        <item itemvalue="Application.MaxString" />
+        <item itemvalue="Application.MaxInteger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8344aff1-0085-4215-8713-7e2d17aed98a" name="Changes" comment="" />
+      <created>1654101764876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654101764876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
